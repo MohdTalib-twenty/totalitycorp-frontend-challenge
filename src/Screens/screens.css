@@ -1,0 +1,15 @@
+.special{
+    margin-left: 800px;
+}
+
+.shipping-card{
+    width:  30rem;
+}
+@media (max-width : 1200px) {
+    .special{
+        margin-left:  20px !important;
+    }
+    .shipping-card{
+        width: 20rem !important;
+    }
+}
